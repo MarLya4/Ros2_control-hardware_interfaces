@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<library path="example_system">
+  <class
+    name="example_hardware_interface/ExampleSystem"
+    type="example_hardware_interface::ExampleSystem"
+    base_class_type="hardware_interface::SystemInterface">
+    <description>
+      Minimal example hardware interface
+    </description>
+  </class>
+</library>
